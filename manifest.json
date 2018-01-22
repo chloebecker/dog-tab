@@ -1,0 +1,15 @@
+{
+	"chrome_url_overrides" : {
+    	"newtab" : "dog-tab.html"
+  	},
+
+  	"description" : "Why open a new tab if you can't see a dog every time?",
+
+  	"homepage_url" : "https://github.com/chloebecker/dog-tab",
+
+	"manifest_version" : 2,
+
+	"name" : "Dog Tab",
+
+	"version" : "1.0"
+}
