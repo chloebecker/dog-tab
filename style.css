@@ -1,3 +1,20 @@
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
 img {
 	width: 100%;
+}
+
+.quote {
+	font-family: helvetica;
+	font-size: 70px;
+
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
